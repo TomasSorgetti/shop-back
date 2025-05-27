@@ -1,4 +1,4 @@
-module go-app
+module go-shop
 
 go 1.22
 
